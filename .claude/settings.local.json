@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm run *)",
+      "Bash(claude mcp *)",
+      "Read(//Users/omni/vaults/work-brain/**)",
+      "Read(//Users/omni/vaults/work-brain/sessions/**)"
+    ]
+  }
+}
